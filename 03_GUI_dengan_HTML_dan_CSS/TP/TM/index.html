@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Tugas Mandiri </title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <h1>Tugas Mandiri </h1>
+
+    <div class="card">
+      <h2>Editor Utama</h2>
+      <textarea
+        id="editor-besar"
+        placeholder="Ketik teks di sini..."
+      ></textarea>
+
+      <div class="info">
+        <p>Jumlah huruf kecil: <span id="hk">0</span></p>
+      </div>
+
+      <div class="toolbar">
+        <button id="huruf-besar">Besarkan Huruf</button>
+        <button id="huruf-kecil">Kecilkan Huruf</button>
+      </div>
+    </div>
+
+    <div class="card">
+      <h2>Hasil di editor-kecil</h2>
+      <textarea
+        id="editor-kecil"
+        placeholder="Hasil konversi akan muncul di sini..."
+        readonly
+      ></textarea>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
