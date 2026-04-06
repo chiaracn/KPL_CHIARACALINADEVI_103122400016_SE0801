@@ -1,0 +1,11 @@
+{
+  "name": "tp-asersi-eksespsi",
+  "version": "1.0.0",
+  "description": "Tugas pendahuluan asersi dan eksespsi",
+  "main": "asersi.js",
+  "scripts": {
+    "start": "node asersi.js"
+  },
+  "author": "Chiara Calina Devi",
+  "license": "ISC"
+}
