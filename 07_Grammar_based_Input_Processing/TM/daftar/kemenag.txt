@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /internal
+Disallow: /draft
+Allow: /berita
+Allow: /layanan
+Sitemap: https://kemenag.go.id/sitemap.xml

@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /beta
+Disallow: /testing
+Allow: /download
+Allow: /documentation
+Sitemap: https://mikrotik.com/sitemap.xml
