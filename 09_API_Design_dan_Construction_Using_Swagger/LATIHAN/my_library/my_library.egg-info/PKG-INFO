@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: my_library
+Version: 0.1
+Summary: library sederhana untuk operasi matematika
+Author: Chiaracalinadevi
+Author-email: chiaracalinadevi@telkomuniversity.ac.id
+Dynamic: author
+Dynamic: author-email
+Dynamic: summary
