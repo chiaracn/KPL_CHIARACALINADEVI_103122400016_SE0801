@@ -1,0 +1,10 @@
+{
+  "name": "pustaka-huruf-kata",
+  "version": "1.0.0",
+  "description": "Pustaka JavaScript untuk menghitung jumlah huruf dan jumlah kata",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
