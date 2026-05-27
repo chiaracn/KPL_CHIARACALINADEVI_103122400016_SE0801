@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /subscriber-only
+Disallow: /premium
+Allow: /news
+Allow: /markets
+Sitemap: https://nikkei.com/sitemap.xml
